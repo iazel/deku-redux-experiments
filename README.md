@@ -40,4 +40,6 @@ Each experiment has a `demo/index.html` file, open it to see a demo.
 
 -----------------------------------------------------
 
-More to come...
+Another more complex example demostrating the power of this trio:
+[Scalable Frontend Challenge by slorber](https://github.com/Iazel/scalable-frontend-with-elm-or-redux/tree/iazel-deku-redux/deku-redux-iazel)
+
